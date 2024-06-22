@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salik Ram Sapkota</h1>
-<h3 align="center">Code Craftsman from Nepal: Mastering Frontend and Backend Symphony</h3>
+<h2 align="center">Code Craftsman from Nepal: Mastering Frontend and Backend Symphony</h2>
+
 
 # 💫 About Me:
 🔭 I’m currently working on Laravel<br>🌱 I’m currently learning Vue.js
