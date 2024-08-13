@@ -3,6 +3,7 @@
 
 
 # 💫 About Me:
+🔭 I’m currently working on Laravel<br>🌱 I’m currently learning Vue.js
 
 
 ## 🌐 Socials:
